@@ -1,19 +1,12 @@
-/* ============================================
-   COLOR PALETTE (classic & cohesive)
-   Primary (brand):    #16332B  -- deep forest green
-   Background:         #F4F1EC  -- warm cream
-   Secondary bg:        #EDE8DC  -- soft cream
-   Accent (CTA/sale):  #C9704F  -- warm terracotta
-   Accent gold (stars): #C9A876  -- muted gold
-   Text (headings):    #1A1A1A  -- soft black
-   Text (muted):       #666666 / #777777
-   ============================================ */
+
 
 * {
     margin: 0px;
     padding: 0px;
 }
-
+body{
+    background-color: white;
+}
 
 .navbar {
     height: 64px;
